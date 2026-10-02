@@ -1,0 +1,3 @@
+# Demo preview — not for indexing.
+User-agent: *
+Disallow: /
